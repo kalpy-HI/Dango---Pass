@@ -1,2 +1,2 @@
-# Dango---PAss
+# Dango---Pass
 Nice Bakuretsu
