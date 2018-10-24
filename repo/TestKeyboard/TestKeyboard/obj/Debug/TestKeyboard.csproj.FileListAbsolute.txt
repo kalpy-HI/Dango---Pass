@@ -1,0 +1,10 @@
+D:\VS\repo\TestKeyboard\TestKeyboard\bin\Debug\TestKeyboard.exe.config
+D:\VS\repo\TestKeyboard\TestKeyboard\bin\Debug\TestKeyboard.exe
+D:\VS\repo\TestKeyboard\TestKeyboard\bin\Debug\TestKeyboard.pdb
+D:\VS\repo\TestKeyboard\TestKeyboard\obj\Debug\TestKeyboard.csprojAssemblyReference.cache
+D:\VS\repo\TestKeyboard\TestKeyboard\obj\Debug\TestKeyboard.Form1.resources
+D:\VS\repo\TestKeyboard\TestKeyboard\obj\Debug\TestKeyboard.Properties.Resources.resources
+D:\VS\repo\TestKeyboard\TestKeyboard\obj\Debug\TestKeyboard.csproj.GenerateResource.cache
+D:\VS\repo\TestKeyboard\TestKeyboard\obj\Debug\TestKeyboard.csproj.CoreCompileInputs.cache
+D:\VS\repo\TestKeyboard\TestKeyboard\obj\Debug\TestKeyboard.exe
+D:\VS\repo\TestKeyboard\TestKeyboard\obj\Debug\TestKeyboard.pdb
